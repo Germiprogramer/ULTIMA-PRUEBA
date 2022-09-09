@@ -20,4 +20,7 @@ def adivinar(num):
         comparar(numero, opcion)
 
 
+pepepepelel
+
+
 
